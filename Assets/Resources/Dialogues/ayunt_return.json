@@ -1,0 +1,175 @@
+{
+  "sceneId": "ayuntamiento_return",
+  "dialogues": [
+    {
+      "key": "slot3",
+      "speaker": "Archivista",
+      "portrait": "archivista",
+      "expression": "normal",
+      "text": "Hola, me alegra volver a verte. Los vecinos vienen preocupados preguntando por la Carta.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Archivista",
+      "portrait": "archivista",
+      "expression": "normal",
+      "text": "¿Hay alguna novedad?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "preocupada",
+      "text": "Siento defraudarte, pero no.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "preocupada",
+      "text": "He recorrido todo el pueblo, hablando con distintos vecinos, consiguiendo pistas y visuras...",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "preocupada",
+      "text": "...Pero, aunque intente encajar todo, no llego a resolver el misterio de quién ha podido robar la Carta.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Archivista",
+      "portrait": "archivista",
+      "expression": "triste",
+      "text": "Es una pena, pero no puedo pedirte más. Nos has ayudado mucho y las visuras conseguidas son de gran valor para el pueblo.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Archivista",
+      "portrait": "archivista",
+      "expression": "normal",
+      "text": "Espero que por lo menos no hayas perdido la oportunidad de visitarlo y conocerlo.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "Sí, por suerte he podido disfrutar del pueblo y su gente, además de conocer su historia.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "Me ha encantado todo y me da mucha rabia no haber podido capturar al ladrón.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Archivista",
+      "portrait": "archivista",
+      "expression": "normal",
+      "text": "De nuevo, no te preocupes.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Archivista",
+      "portrait": "archivista",
+      "expression": "normal",
+      "text": "No dudo que tarde o temprano acabará saliendo el responsable.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Archivista",
+      "portrait": "archivista",
+      "expression": "normal",
+      "text": "Todo el pueblo está trabajando por encontrarlo, así que ahora toca ser pacientes.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "Sí, estoy segura de que el pueblo ayudará y al final recuperaréis la Carta.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Archivista",
+      "portrait": "archivista",
+      "expression": "normal",
+      "text": "Me imagino que las visuras están algo dañadas o sucias después de tanto tiempo.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "Sí, no están en el mejor estado pero seguro que se pueden restaurar.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Archivista",
+      "portrait": "archivista",
+      "expression": "normal",
+      "text": "Tranquila, que sí. No es la primera vez que tenemos que restaurar algún documento histórico.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Archivista",
+      "portrait": "archivista",
+      "expression": "normal",
+      "text": "Pasa dentro, que las restauraremos y las guardaremos donde puedan estar seguras.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    }
+  ]
+}

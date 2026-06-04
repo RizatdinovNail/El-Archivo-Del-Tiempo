@@ -1,0 +1,106 @@
+{
+  "sceneId": "arrabalLoreto_presenteAfterMiniGame",
+  "dialogues": [
+    {
+      "key": "slot3",
+      "speaker": "Carmen",
+      "portrait": "abuela",
+      "expression": "feliz",
+      "text": "¡Así se hace! Todo tiene muy buena pinta.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Carmen",
+      "portrait": "abuela",
+      "expression": "feliz",
+      "text": "El olor de la comida ha despertado mi memoria… hoy vi una sombra.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Carmen",
+      "portrait": "abuela",
+      "expression": "feliz",
+      "text": "Un hombre, alto, con abrigo largo.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Carmen",
+      "portrait": "abuela",
+      "expression": "feliz",
+      "text": "No era del barrio, te lo aseguro.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Carmen",
+      "portrait": "abuela",
+      "expression": "feliz",
+      "text": "Venía de la dirección del archivo, lo ví esta mañana.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "¿Recuerda algo más? ¿Su rostro, su voz?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Carmen",
+      "portrait": "abuela",
+      "expression": "feliz",
+      "text": "No. Pero dejó algo tras la iglesia…",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Carmen",
+      "portrait": "abuela",
+      "expression": "feliz",
+      "text": "Encontré esto. No quise tirarlo, por si acaso.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "Gracias, Carmen. Me ha ayudado más de lo que imagina.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Carmen",
+      "portrait": "abuela",
+      "expression": "feliz",
+      "text": "Anda, come un poco antes de seguir. No puedes trabajar con el estómago vacío.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true,
+      "showInfoWindow": true
+    }
+  ]
+}

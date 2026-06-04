@@ -1,0 +1,195 @@
+{
+  "sceneId": "arrabalSanRoque_presente",
+  "dialogues": [
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "Perdone. ¿Le importa si le hago una pregunta?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "???",
+      "portrait": "juan_solsona",
+      "expression": "feliz",
+      "text": "Si es sobre si queda sitio para jugar, sí. Pero traes las cartas tú, ¿no?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "No, no era eso.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "Me llamo Bella, estoy investigando un robo que ha ocurrido en el pueblo.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "???",
+      "portrait": "juan_solsona",
+      "expression": "feliz",
+      "text": "¿Un robo? Así que era verdad lo que decían por el bar… ¿De qué se trata, “moza”?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "Tranquilo, yo misma me voy a encargar.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "Han robado la Carta Pobla y estoy buscando pistas por los arrabales.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "???",
+      "portrait": "juan_solsona",
+      "expression": "feliz",
+      "text": "Ah, lo de la Carta. Sí, sí… algo así tenía entendido, pero yo ya tengo bastantes misterios con intentar ganar una partida al cinquillo.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "Ya veo... ¿Cómo se llama?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Juan Solsona",
+      "portrait": "juan_solsona",
+      "expression": "feliz",
+      "text": "Me llamo Juan.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "¿Pasa mucho tiempo aquí jugando las cartas?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "Quizá haya visto a alquien sospechoso...",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Juan Solsona",
+      "portrait": "juan_solsona",
+      "expression": "feliz",
+      "text": "Aquí los únicos sospechosos somos nosotros, que siempre hacemos trampas.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Juan Solsona",
+      "portrait": "juan_solsona",
+      "expression": "feliz",
+      "text": "Aunque… Ahora que lo dices, sí que vi a un “zagal” raro hace poco.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Juan Solsona",
+      "portrait": "juan_solsona",
+      "expression": "feliz",
+      "text": "Alto, de negro, con un sombrero… parecía salido de un entierro.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "¿De verdad? ¿Recuerda hacia dónde fue?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Juan Solsona",
+      "portrait": "juan_solsona",
+      "expression": "feliz",
+      "text": "Hmm… no mucho, la verdad. Pasó tan rápido que casi me vuela las cartas.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Juan Solsona",
+      "portrait": "juan_solsona",
+      "expression": "feliz",
+      "text": "Pero… si ganas una partida, lo mismo me acuerdo mejor.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "¿Una partida de cinquillo? ¡Trato hecho!",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    }
+  ]
+}

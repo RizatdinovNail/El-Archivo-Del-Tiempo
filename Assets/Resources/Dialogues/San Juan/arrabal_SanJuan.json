@@ -1,0 +1,415 @@
+{
+  "sceneId": "arrabalSanJuan_presente",
+  "dialogues": [
+    {
+      "key": "slot3",
+      "speaker": "???",
+      "portrait": "niño",
+      "expression": "feliz",
+      "text": "¡¡¡Oye!!!",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "???",
+      "portrait": "niño",
+      "expression": "feliz",
+      "text": "¿Tú quién eres? No te había visto nunca por aquí.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "Hola, me llamo Bella y estoy de visita en el pueblo.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Martín",
+      "portrait": "niño",
+      "expression": "feliz",
+      "text": "Vaya, no conocía a nadie que se llamara Bella, yo soy Martín pero todos me llaman Martinete.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "Encantada de conocerte entonces Martinete.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Martín",
+      "portrait": "niño",
+      "expression": "feliz",
+      "text": "Igualmente, supongo.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Martín",
+      "portrait": "niño",
+      "expression": "feliz",
+      "text": "Adiós, me tengo que ir que me espera mi amigo.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "preocupada",
+      "text": "¡Espera!",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "preocupada",
+      "text": "No veo a nadie más por aquí y me gustaría que me ayudaras.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Martín",
+      "portrait": "niño",
+      "expression": "aburido",
+      "text": "Pero me espera mi amigooo, ¿qué quieres ahoraaaa?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "preocupada",
+      "text": "¡Es importante!",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "preocupada",
+      "text": "¿Te has enterado de lo del robo?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Martín",
+      "portrait": "niño",
+      "expression": "asustado",
+      "text": "¿Robo de qué?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Martín",
+      "portrait": "niño",
+      "expression": "asustado",
+      "text": "Espera...",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Martín",
+      "portrait": "niño",
+      "expression": "asustado",
+      "text": ". . . ",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Martín",
+      "portrait": "niño",
+      "expression": "asustado",
+      "text": "Noooooo",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Martín",
+      "portrait": "niño",
+      "expression": "asustado",
+      "text": "¡¡Mi bocata lomo!! ¡No está!",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "preocupada",
+      "text": "¿Qué bocata? Y se dice “de lomo”. Me refiero a la Carta Puebla, debes haberte enterado.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Martín",
+      "portrait": "niño",
+      "expression": "feliz",
+      "text": "Algo me suena haber oído de mis padres...",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Martín",
+      "portrait": "niño",
+      "expression": "feliz",
+      "text": "Bueno, me voy ya con mi amigo. Me va a enseñar sus nuevos cascos para escuchar música, ¿sabes?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Martín",
+      "portrait": "niño",
+      "expression": "feliz",
+      "text": "¡Tengo prisa!",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "preocupada",
+      "text": "¡Solo un momento! ¿No sabes nada ni has visto a nadie?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Martín",
+      "portrait": "niño",
+      "expression": "aburido",
+      "text": "Yo no sé nada, pero antes sí que ví a un hombre pasar por aquí.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Martín",
+      "portrait": "niño",
+      "expression": "aburido",
+      "text": "Bueno, me voy ya…",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "preocupada",
+      "text": "¡¡¡Pero espera!!!",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "preocupada",
+      "text": "Eso sí que es útil, dime qué has visto porfa",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Martín",
+      "portrait": "niño",
+      "expression": "aburido",
+      "text": "Que no, que tengo mucha prisa.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "¿Y si te digo que el ladrón también ha robado un bocadillo de lomo que, por lo que veo, es el tuyo, no me vas a ayudar?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Martín",
+      "portrait": "niño",
+      "expression": "asustado",
+      "text": "¿¿¿Bocata lomo ya???",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Martín",
+      "portrait": "niño",
+      "expression": "serio",
+      "text": "Con eso no se juega, y no soy tonto, sé que me estás mintiendo.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Martín",
+      "portrait": "niño",
+      "expression": "serio",
+      "text": "Mis padres siempre me regañan por mentir así que no te pienso ayudar.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Martín",
+      "portrait": "niño",
+      "expression": "serio",
+      "text": "¡¡Te fastidias!!",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "Está bien, no tendría que haberte mentido...",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "Se me ha ocurrido una cosa...",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "Por lo que me has dicho antes, te gusta mucho la música no?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "Pues a mí también.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": " ¿Qué te parece si hacemos un duelo? Quién mejor lleve la marcha y tenga mejor ritmo siguiendo la música, gana.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": " Si yo gano, me dices lo que sepas sobre el ladrón, y si tú ganas te compro un bocadillo de lomo.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Martín",
+      "portrait": "niño",
+      "expression": "aburido",
+      "text": "Hmm…",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Martín",
+      "portrait": "niño",
+      "expression": "feliz",
+      "text": "Bueno vale, será divertido verte perder.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Martín",
+      "portrait": "niño",
+      "expression": "feliz",
+      "text": "Espero que el bocata lomo sea tan bueno como los de mi madre.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    }
+  ]
+}

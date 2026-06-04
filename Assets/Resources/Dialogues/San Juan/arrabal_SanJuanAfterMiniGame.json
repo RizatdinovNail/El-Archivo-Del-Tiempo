@@ -1,0 +1,226 @@
+{
+  "sceneId": "arrabalSanJuan_presenteAfterMiniGame",
+  "dialogues": [
+    {
+      "key": "slot3",
+      "speaker": "Martín",
+      "portrait": "niño",
+      "expression": "triste",
+      "text": "¡¡¡Noooo!!!",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Martín",
+      "portrait": "niño",
+      "expression": "triste",
+      "text": "¿¿¿Cómo es posible???",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Martín",
+      "portrait": "niño",
+      "expression": "triste",
+      "text": "Has tenido que hacer trampas seguro, es imposible que yo haya perdido.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Martín",
+      "portrait": "niño",
+      "expression": "triste",
+      "text": "¡¡¡Quiero mi bocata lomoooo!!!",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "Creo que tienes que aprender a perder.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "Ahora lo importante es lo que acordamos, dime todo lo que sepas sobre el ladrón.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "Si lo que me dices me ayuda igual me lo pienso y te compro ese bocata de lomo.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Martín",
+      "portrait": "niño",
+      "expression": "asustado",
+      "text": "¿¡En serio!?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Martín",
+      "portrait": "niño",
+      "expression": "aburido",
+      "text": "Vale va, entonces te lo diré.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Martín",
+      "portrait": "niño",
+      "expression": "aburido",
+      "text": "He visto pasar a un hombre todo de negro, no se le veía prácticamente nada, por lo que no sé quién era, pero era un tío grandote y con sombrero…",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Martín",
+      "portrait": "niño",
+      "expression": "aburido",
+      "text": "O con un cabezón enorme tal vez… ",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "sospechosa",
+      "text": "¿Y te acuerdas de en qué dirección iba o de alguna cosa más?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Martín",
+      "portrait": "niño",
+      "expression": "aburido",
+      "text": "Como me pareció un tipo rarísimo le seguí un rato para intentar darle un susto, pero le perdí.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Martín",
+      "portrait": "niño",
+      "expression": "aburido",
+      "text": "Aunque encontré un papelito en el suelo, supongo que se le cayó.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "sospechosa",
+      "text": "Conque un papelito…",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "sospechosa",
+      "text": "Seguro que es de gran utilidad. ¿Me lo podrías dar si aún lo tienes?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Martín",
+      "portrait": "niño",
+      "expression": "aburido",
+      "text": "¡Si claro!",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Martín",
+      "portrait": "niño",
+      "expression": "aburido",
+      "text": "¡Ahora es mío!",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Martín",
+      "portrait": "niño",
+      "expression": "aburido",
+      "text": "¡No te lo pienso dar!",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "Vale, muy bien, pues te quedarás sin bocadillo de lomo, como quieras…",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Martín",
+      "portrait": "niño",
+      "expression": "asustado",
+      "text": "Pero…",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Martín",
+      "portrait": "niño",
+      "expression": "aburido",
+      "text": "Bueno vale… Aquí tienes.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true,
+      "showInfoWindow": true
+    }
+  ]
+}

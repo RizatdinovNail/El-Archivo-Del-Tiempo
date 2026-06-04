@@ -1,0 +1,327 @@
+{
+  "sceneId": "robo_dialogues",
+  "dialogues": [
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "¡Qué buena música! ",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "¡Suena genial!",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "",
+      "speaker": "",
+      "portrait": "",
+      "expression": "",
+      "text": "...",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false,
+      "stopMusic": true
+    },
+    {
+      "key": "gente",
+      "speaker": "Gente",
+      "portrait": "",
+      "expression": "",
+      "text": "¿Qué ha pasado?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "gente",
+      "speaker": "Gente",
+      "portrait": "",
+      "expression": "",
+      "text": "¿Se encuentran bien los músicos?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "???",
+      "portrait": "archivista",
+      "expression": "triste",
+      "text": "¡Alguien acaba de robar la Carta Puebla y, en el proceso, ha esparcido unas visuras que íbamos a restaurar hoy por todo el pueblo!",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "???",
+      "portrait": "archivista",
+      "expression": "triste",
+      "text": "¿Alguien nos puede ayudar?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "¡Yo puedo ayudar!",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "???",
+      "portrait": "archivista",
+      "expression": "normal",
+      "text": "Pero si eres una turista normal y corriente, no podemos pedirte que nos ayudes.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot1",
+      "speaker": "",
+      "portrait": "",
+      "expression": "feliz_det",
+      "text": "...",
+      "seen": false,
+      "mapObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz_det",
+      "text": "Además de turista, también soy estudiante de criminología, así que si tienes un caso que resolver, puedes contar conmigo.",
+      "seen": false,
+      "mapObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "???",
+      "portrait": "archivista",
+      "expression": "feliz",
+      "text": "¡Gracias a Dios!",
+      "seen": false,
+      "mapObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "???",
+      "portrait": "archivista",
+      "expression": "normal",
+      "text": "¿Entonces nos ayudarás a capturar al ladrón y recoger las visuras que ha esparcido por el pueblo?",
+      "seen": false,
+      "mapObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz_det",
+      "text": "¡Sí!",
+      "seen": false,
+      "mapObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz_det",
+      "text": ". . .",
+      "seen": false,
+      "mapObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz_det",
+      "text": "¿Qué es una visura?",
+      "seen": false,
+      "mapObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "???",
+      "portrait": "archivista",
+      "expression": "normal",
+      "text": "¿Las visuras?",
+      "seen": false,
+      "mapObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "???",
+      "portrait": "archivista",
+      "expression": "normal",
+      "text": "Son unos documentos históricos del siglo XVIII en los que se habla de diferentes lugares de Vistabella y sus alrededores.",
+      "seen": false,
+      "mapObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz_det",
+      "text": "Vaya, ¡qué interesante!",
+      "seen": false,
+      "mapObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz_det",
+      "text": "¿Cómo son?",
+      "seen": false,
+      "mapObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "???",
+      "portrait": "archivista",
+      "expression": "normal",
+      "text": "Estás de suerte.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "???",
+      "portrait": "archivista",
+      "expression": "normal",
+      "text": "Justo llevo algunas conmigo.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "???",
+      "portrait": "archivista",
+      "expression": "normal",
+      "text": "Mira",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false,
+      "showVisura": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz_det",
+      "text": "¡Genial!",
+      "seen": false,
+      "mapObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz_det",
+      "text": "¡Encontraré las visuras perdidas y resolveré el caso!",
+      "seen": false,
+      "mapObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "???",
+      "portrait": "archivista",
+      "expression": "normal",
+      "text": "Muchas gracias. . .",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "???",
+      "portrait": "archivista",
+      "expression": "normal",
+      "text": ". . . ¿Cómo te llamas?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz_det",
+      "text": "Es verdad, no me he presentado. Me llamo Bella. Y usted?",
+      "seen": false,
+      "mapObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "Archivista",
+      "portrait": "archivista",
+      "expression": "normal",
+      "text": "Puedes llamarte Archivista.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz_det",
+      "text": "Un placer, Archivista!",
+      "seen": false,
+      "mapObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "Archivista",
+      "portrait": "archivista",
+      "expression": "normal",
+      "text": "Lo mismo digo.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "Archivista",
+      "portrait": "archivista",
+      "expression": "normal",
+      "text": "Toma, aqui tienes un mapa. Contamos contigo.",
+      "seen": false,
+      "mapIsObtained": true,
+      "inventoryIsUsable": true
+    }
+  ]
+}

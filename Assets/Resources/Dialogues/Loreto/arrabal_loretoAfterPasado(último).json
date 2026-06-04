@@ -1,0 +1,25 @@
+{
+  "sceneId": "arrabalLoreto_AfterPasado(último)",
+  "dialogues": [
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "preocupada",
+      "text": "Es una pena que, después de conocer a la gente e historia del pueblo, en esta visita no haya logrado destapar el misterio del robo.",
+      "seen": false,
+      "mapIsObtained": true,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "preocupada",
+      "text": "Debería ir con la archivista para informarle de los progresos y darle los documentos por lo menos.",
+      "seen": false,
+      "mapIsObtained": true,
+      "inventoryIsUsable": true
+    }
+  ]
+}

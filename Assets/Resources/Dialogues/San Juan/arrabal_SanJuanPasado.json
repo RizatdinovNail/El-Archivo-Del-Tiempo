@@ -1,0 +1,245 @@
+{
+  "sceneId": "arrabalSanJuan_pasado",
+  "dialogues": [
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "¡Hey, hola!",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "???",
+      "portrait": "niño",
+      "expression": "feliz",
+      "text": "Ahh hola, buenos días, ¿eres una de esas compradoras ambulantes que dice mi padre?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "¿Compradora ambulante? No, solo estoy de visita.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "Estoy aquí para conocer más sobre el pueblo y su historia.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "???",
+      "portrait": "niño",
+      "expression": "feliz",
+      "text": "Pensaba que eras una de esas compradoras de los cultivos de mi padre, con razón nunca te había visto por aquí.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "Manuel",
+      "portrait": "niño",
+      "expression": "feliz",
+      "text": "¿Como te llamas?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "Me llamo Bella, ¿y tú?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "Manuel",
+      "portrait": "niño",
+      "expression": "feliz",
+      "text": "Yo me llamo Manuel Salvador, pero no creo que te pueda ayudar mucho con la historia del pueblo.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "Manuel",
+      "portrait": "niño",
+      "expression": "feliz",
+      "text": "Además tengo prisa, le tengo que llevar agua a mi padre.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "Bueno, no hay problema, seguiré explorando y a ver si me encuentro con alguien más, hasta luego.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "Manuel",
+      "portrait": "niño",
+      "expression": "feliz",
+      "text": "...",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "Manuel",
+      "portrait": "niño",
+      "expression": "feliz",
+      "text": "Bueno… no, espera…",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "Manuel",
+      "portrait": "niño",
+      "expression": "feliz",
+      "text": "Necesito ayuda para llevar el agua. ¿Te importaría ayudarme antes de que te vayas?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "Claro, tengo tiempo, tranquilo.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "¿Cuál es el problema?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "Manuel",
+      "portrait": "niño",
+      "expression": "feliz",
+      "text": "Necesito llenar estos cubos de agua de ese abrevadero, pero está lleno de abejas… y bueno…",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "Manuel",
+      "portrait": "niño",
+      "expression": "feliz",
+      "text": "Me dan miedo y ya me picaron el otro día, no quiero que me vuelvan a picar.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "¡No me digas!",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "Tranquilo que te ayudaré.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "Además, veo que ayudas a tu padre incluso con miedo a que te piquen las abejas, eso me parece genial.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "Manuel",
+      "portrait": "niño",
+      "expression": "feliz",
+      "text": "Mi padre siempre está trabajando en los cultivos y me gusta mucho ayudarle.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "Manuel",
+      "portrait": "niño",
+      "expression": "feliz",
+      "text": "Me gusta ayudar a la gente del pueblo y de hecho quiero ser alcalde de mayor.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "Seguro que algún día llegaras a serlo, no lo dudo.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "Pues vamos a llenar los cubos cuanto antes, que tu padre lo necesitará.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "sceneId": "sanRoque_pasado",
+  "dialogues": [
+    {
+      "key": "slot3",
+      "speaker": "???",
+      "portrait": "",
+      "expression": "feliz",
+      "text": "¿Qué calor hace, verdad, Flecha?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "Flecha",
+      "portrait": "juanjo",
+      "expression": "feliz",
+      "text": "...",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "???",
+      "portrait": "",
+      "expression": "feliz",
+      "text": "¿Que estás cansado dices?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "Flecha",
+      "portrait": "",
+      "expression": "feliz",
+      "text": "...",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "???",
+      "portrait": "",
+      "expression": "feliz",
+      "text": "A mi tampoco me apetece trabajar hoy. Pero es lo que hay...",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "Flecha",
+      "portrait": "",
+      "expression": "feliz",
+      "text": "...",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "¡Que bonito burro!",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "Flecha",
+      "portrait": "",
+      "expression": "feliz",
+      "text": "...",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "???",
+      "portrait": "",
+      "expression": "feliz",
+      "text": "A que sí. Ademas, es muy trabajador.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "???",
+      "portrait": "",
+      "expression": "feliz",
+      "text": "Tú no eres de por aquí, ¿verdad?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "No, estoy de visita. Quiero conocer el pueblo. Me llamo Bella.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "Juanjo Colom",
+      "portrait": "",
+      "expression": "feliz",
+      "text": "Encantado, Bella. Me llamo Juanjo.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "Juanjo Colom",
+      "portrait": "",
+      "expression": "feliz",
+      "text": "Llevas unas ropas que no he visto nunca. ¿Eres extranjera?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "Algo así y soy detective.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "Juanjo Colom",
+      "portrait": "",
+      "expression": "feliz",
+      "text": "Asi que eres detective...",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "Juanjo Colom",
+      "portrait": "",
+      "expression": "feliz",
+      "text": "Yo tengo que vigilar toda esta zona y me vendría bien un poco de ayuda.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "Juanjo Colom",
+      "portrait": "",
+      "expression": "feliz",
+      "text": "Debes tener ojos atentos, ¿podrías ayudarme?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "Sí, te ayudo. ¿Qué tengo que hacer?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "Juanjo Colom",
+      "portrait": "",
+      "expression": "feliz",
+      "text": "Algunos vecinos se aventuran demasiado lejos y debemos asegurarnos de que respeten los límites.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "Flecha",
+      "portrait": "",
+      "expression": "feliz",
+      "text": "!!!",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "Juanjo Colom",
+      "portrait": "",
+      "expression": "feliz",
+      "text": "Claro, Flecha. Si alguien está fuera de sus tierras, ¡multa directa!",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "¿Y cómo sabré quién está fuera de sus tierras?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "Juanjo Colom",
+      "portrait": "",
+      "expression": "feliz",
+      "text": "Lo pone todo en esta visura.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "Vale… así que hoy me toca hacer de vigilante. Pues adelante, Juanjo, pongámonos manos a la obra.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    }
+  ]
+}

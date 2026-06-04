@@ -1,0 +1,115 @@
+{
+  "sceneId": "arrabalLoreto_pasado",
+  "dialogues": [
+    {
+      "key": "slot3",
+      "speaker": "Barbara Gual",
+      "portrait": "abuela",
+      "expression": "feliz",
+      "text": "¿Te encuentras bien, hija?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "Ah… sí, sí, sólo me he perdido. Buscaba información sobre la historia de Vistabella.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "Barbara Gual",
+      "portrait": "abuela",
+      "expression": "feliz",
+      "text": "¿Historia, dices?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "Barbara Gual",
+      "portrait": "abuela",
+      "expression": "feliz",
+      "text": "Entonces seguro que te gustará aprender sobre nuestras visuras. Dicen que el señor Juanjo Colom está escribiendo una muy especial sobre la masía.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "¿Está escribiendo una visura ahora mismo?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "Barbara Gual",
+      "portrait": "abuela",
+      "expression": "feliz",
+      "text": "Claro, se está quedando en las cercanías. Pero antes de que vayas a verle, ¿podrías hacerme un favor?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "Barbara Gual",
+      "portrait": "abuela",
+      "expression": "feliz",
+      "text": "Estoy haciendo un gorro para agradecer a Juanjo su esfuerzo, pero mis manos ya no son las de antes.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "Barbara Gual",
+      "portrait": "abuela",
+      "expression": "feliz",
+      "text": "¿Me ayudarías a tejerlo?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "¿Tejer? Mi abuela lo hacía, pero nunca aprendí del todo.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "Barbara Gual",
+      "portrait": "abuela",
+      "expression": "feliz",
+      "text": "Entonces hoy es tu día de suerte.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "Barbara Gual",
+      "portrait": "abuela",
+      "expression": "feliz",
+      "text": "Tranquila, aquí no hay nada difícil. Solo sigue mi ritmo.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    }
+  ]
+}

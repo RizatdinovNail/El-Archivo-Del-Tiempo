@@ -1,0 +1,57 @@
+{
+  "sceneId": "ayun_returnAfterMiniGame",
+  "dialogues": [
+    {
+      "key": "slot3",
+      "speaker": "Archivista",
+      "portrait": "archivista",
+      "expression": "normal",
+      "text": "Ahora sí, han quedado genial y se puede apreciar que son reales por las firmas de los notarios y por esos dibujos complejos que hay.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "Ya entiendo, es curioso cómo hacían las cosas en su momento.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "???",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "...",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true,
+      "showDoor": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "sospechosa",
+      "text": "He escuchado un ruido detrás de esa puerta.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Archivista",
+      "portrait": "archivista",
+      "expression": "normal",
+      "text": "Hmmm... Entremos.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true,
+      "clickDoor": true
+    }
+  ]
+}

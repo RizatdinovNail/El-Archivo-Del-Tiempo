@@ -1,0 +1,195 @@
+{
+  "sceneId": "arrabalSanRoque_pasadoAfterMiniGame",
+  "dialogues": [
+    {
+      "key": "slot2",
+      "speaker": "José Solsona",
+      "portrait": "josé_solsona",
+      "expression": "triste",
+      "text": "Ay, hija… ¡Qué desgracia la mía!",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot2",
+      "speaker": "José Solsona",
+      "portrait": "josé_solsona",
+      "expression": "triste",
+      "text": "Ni trabajando ni descansando me libro de las multas.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot2",
+      "speaker": "José Solsona",
+      "portrait": "josé_solsona",
+      "expression": "triste",
+      "text": "Y encima… no tengo ni para pagarla entera.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "preocupada",
+      "text": "Lo siento José, estaba fuera de sus tierras… y holgazaneando.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "preocupada",
+      "text": " Pero entiendo que esto le fastidie.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot2",
+      "speaker": "José Solsona",
+      "portrait": "josé_solsona",
+      "expression": "triste",
+      "text": "Ya… pero esto me va a costar una semana de uvas.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "Juanjo Colom",
+      "portrait": "juanjo",
+      "expression": "feliz",
+      "text": "Buenas. He oído que hay problemas con una multa…",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "Juanjo Colom",
+      "portrait": "juanjo",
+      "expression": "feliz",
+      "text": "Si no le importa, José, puedo ayudarle a pagar lo que le falta.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot2",
+      "speaker": "José Solsona",
+      "portrait": "josé_solsona",
+      "expression": "feliz",
+      "text": "¿De… de verdad harías eso por mí?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot2",
+      "speaker": "José Solsona",
+      "portrait": "josé_solsona",
+      "expression": "feliz",
+      "text": "¿Pero…?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot2",
+      "speaker": "José Solsona",
+      "portrait": "josé_solsona",
+      "expression": "feliz",
+      "text": "Que Dios lo bendiga… de verdad.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot2",
+      "speaker": "José Solsona",
+      "portrait": "josé_solsona",
+      "expression": "feliz",
+      "text": "Al final… aún queda gente buena en este mundo.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "Parece que alguien le aprecia más de lo que usted pensaba, ¿eh?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot2",
+      "speaker": "José Solsona",
+      "portrait": "josé_solsona",
+      "expression": "feliz",
+      "text": "Ya te digo… Y yo aquí de gruñón… Menudo corazón tiene ese chico.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "Es muy amable, Juanjo.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "Juanjo Colom",
+      "portrait": "juanjo",
+      "expression": "feliz",
+      "text": "Lo que sea por los vecinos.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "Bueno, tengo que irme ya. Buena suerte son su trabajo.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "Juanjo Colom",
+      "portrait": "juanjo",
+      "expression": "feliz",
+      "text": "Adiós.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "Flecha",
+      "portrait": "",
+      "expression": "feliz",
+      "text": "...",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    }
+  ]
+}

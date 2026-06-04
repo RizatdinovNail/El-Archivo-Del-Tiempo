@@ -1,0 +1,85 @@
+{
+  "sceneId": "intro_vistabella",
+  "dialogues": [
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "¡Qué bonito es Vistabella! De todos los pueblos que he visitado, de momento este es el mejor.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "???",
+      "portrait": "ramon",
+      "expression": "amable",
+      "text": "Te doy la razón. En realidad, es más bonito de lo que piensa la gente. Por cierto, me llamo RAMÓN, encantado de conocerte.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "Y yo BELLA, lo mismo digo.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "Ramón",
+      "portrait": "ramon",
+      "expression": "amable",
+      "text": "Por cierto, la música que estás escuchando viene del ayuntamiento. ¿Sabías que se está celebrando el 775.º aniversario de la Carta Puebla de Vistabella allí?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "¿Cómo? ¿¡Que además de bonito hay fiesta!? Eso sí que no me lo pierdo. ¿Tú también vienes?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "Ramón",
+      "portrait": "ramon",
+      "expression": "amable",
+      "text": "No, tengo unos asuntos que atender. Pásatelo bien.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "¡Hasta luego! Espero que cuando acabes te pases por la fiesta.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "Ramón",
+      "portrait": "ramon",
+      "expression": "amable",
+      "text": "Sí, sí, allí estaré. Adiós.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    }
+  ]
+}

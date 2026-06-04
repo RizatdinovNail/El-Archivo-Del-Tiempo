@@ -1,0 +1,249 @@
+{
+  "sceneId": "juicio",
+  "dialogues": [
+    {
+      "key": "slot3",
+      "speaker": "Ramón",
+      "portrait": "ramon",
+      "expression": "amable",
+      "text": "Mi antepasado, Juanjo Colom, sufrió muchas injurias a manos de los habitantes del pueblo.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Ramón",
+      "portrait": "ramon",
+      "expression": "amable",
+      "text": "Como aquella vez en la que el futuro alcalde de Vistabella le obligó a cargar varios cubos de agua.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "isChoicePoint": true,
+      "firstTimeChoice": true,
+      "choice": {
+        "questionText": "Choose your statement:",
+        "options": [
+          {
+            "optionText": "¡Eso es mentira! Juanjo se presentó voluntario para ayudar a Manuel Salvador a cargar los cubos de agua a su casa.",
+            "nextDialogueIndex": 3,
+            "isCorrect": true
+          },
+          {
+            "optionText": "¡Eso es mentira! Fue Manuel Salvador quien llevó los cubos a su padre.",
+            "nextDialogueIndex": 15,
+            "isCorrect": false
+          }
+        ]
+      }
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "¡Eso es mentira! Juanjo se presentó voluntario para ayudar a Manuel Salvador a cargar los cubos de agua a su casa.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot2",
+      "speaker": "Archivista",
+      "portrait": "archivista",
+      "expression": "normal",
+      "text": "Tienes razón, de hecho, en la visura aparece escrito cómo Juanjo ayudó a un tal Manuel Salvador.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Ramón",
+      "portrait": "ramon",
+      "expression": "amable",
+      "text": "Bueno, aunque hayas demostrado que no lo injuriaban, seguían sin apreciar su trabajo, pese al gran esfuerzo que realizaba.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Ramón",
+      "portrait": "ramon",
+      "expression": "amable",
+      "text": "¿Qué me dices de aquella vez que se quedó durante un tiempo cerca de la masía Gual y lo ignoraron?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "isChoicePoint": true,
+      "firstTimeChoice": true,
+      "choice": {
+        "questionText": "Choose your statement:",
+        "options": [
+          {
+            "optionText": "¡Eso es mentira! Bárbara Gual le hizo un gorro de crochet para él.",
+            "nextDialogueIndex": 8,
+            "isCorrect": true
+          },
+          {
+            "optionText": "¡Eso es mentira! Bárbara Gual le dio un gorro que compró.",
+            "nextDialogueIndex": 17,
+            "isCorrect": false
+          }
+        ]
+      }
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "¡Eso es mentira! Bárbara Gual le hizo un gorro de crochet para él.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot2",
+      "speaker": "Archivista",
+      "portrait": "archivista",
+      "expression": "normal",
+      "text": "Tienes razón, de hecho, en la visura aparece escrito que Juanjo recibió un gorro en la masía Gual.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Ramón",
+      "portrait": "ramon",
+      "expression": "amable",
+      "text": "Bueno, como quieras… pero ¿me vas a negar que la gente lo odiaba? Esos regalos de los que hablas seguro que estaban influenciados por el miedo.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Ramón",
+      "portrait": "ramon",
+      "expression": "amable",
+      "text": "¿Quién se haría amigo de alguien cuyo trabajo es multar a las personas que no trabajan?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "isChoicePoint": true,
+      "firstTimeChoice": true,
+      "choice": {
+        "questionText": "Choose your statement:",
+        "options": [
+          {
+            "optionText": "¡Eso es mentira! José Solsona casi nunca se encontraba en sus tierras y, aún así, recibía la compasión de Juanjo.",
+            "nextDialogueIndex": 19,
+            "isCorrect": true
+          },
+          {
+            "optionText": "¡Eso es mentira! Juanjo no multaba a quienes no se encontraban en sus tierras.",
+            "nextDialogueIndex": 13,
+            "isCorrect": false
+          }
+        ]
+      }
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "¡Eso es mentira! Juanjo no multaba a quienes no se encontraban en sus tierras.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot2",
+      "speaker": "Archivista",
+      "portrait": "archivista",
+      "expression": "normal",
+      "text": "Eso no tiene sentido, ya que en la visura aparecen registradas las multas que tuvo que imponer.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true,
+      "returnToChoice": true,
+      "returnChoiceIndex": 12
+    },
+
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "¡Eso es mentira! Fue Manuel Salvador quien llevó los cubos a sus padres.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot2",
+      "speaker": "Archivista",
+      "portrait": "archivista",
+      "expression": "normal",
+      "text": "Eso no tiene sentido, ya que los cubos de agua pesan demasiado para que los lleve un niño.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true,
+      "returnToChoice": true,
+      "returnChoiceIndex": 2
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "¡Eso es mentira! Bárbara Gual le dio un gorro que compró.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot2",
+      "speaker": "Archivista",
+      "portrait": "archivista",
+      "expression": "normal",
+      "text": "Eso no tiene sentido, ya que la masía Gual se encontraba lejos de Vistabella como para ir a pie tan rápido.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true,
+      "returnToChoice": true,
+      "returnChoiceIndex": 7
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "¡Eso es mentira! José Solsona casi nunca se encontraba en sus tierras y aún así recibía la compasión de Juanjo.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot2",
+      "speaker": "Archivista",
+      "portrait": "archivista",
+      "expression": "normal",
+      "text": "Tienes razón, de hecho, en la visura aparece escrito que Juanjo sentía aprecio por aquellos a los que multaba e intentaba no excederse.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    }
+  ]
+}

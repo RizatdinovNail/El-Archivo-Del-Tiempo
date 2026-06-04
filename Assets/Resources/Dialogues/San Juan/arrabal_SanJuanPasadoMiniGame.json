@@ -1,0 +1,205 @@
+{
+  "sceneId": "arrabalSanJuan_pasadoAfterMiniGame",
+  "dialogues": [
+    {
+      "key": "slot2",
+      "speaker": "Manuel",
+      "portrait": "niño",
+      "expression": "feliz",
+      "text": "Muchísimas gracias, no lo hubiera conseguido sin tí.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot2",
+      "speaker": "Manuel",
+      "portrait": "niño",
+      "expression": "feliz",
+      "text": "Mi padre te lo agradecerá, si quieres vente a comer con nosotros…",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "Me encantaría, pero tengo que irme, tengo un misterio que resolver.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot2",
+      "speaker": "Manuel",
+      "portrait": "niño",
+      "expression": "feliz",
+      "text": "¡Guau! Suena divertido.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot2",
+      "speaker": "Manuel",
+      "portrait": "niño",
+      "expression": "feliz",
+      "text": "Pues entonces mucha suerte, yo me voy ya, que mi padre me estará esperando…",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot2",
+      "speaker": "Manuel",
+      "portrait": "niño",
+      "expression": "feliz",
+      "text": "Aunque espera, creo que aún llevo encima…",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot2",
+      "speaker": "Manuel",
+      "portrait": "niño",
+      "expression": "feliz",
+      "text": "Sí, ¡aquí está!",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot2",
+      "speaker": "Manuel",
+      "portrait": "niño",
+      "expression": "feliz",
+      "text": "Un bocadillo de lomo que me ha hecho mi madre hoy. Ya que no puedes quedarte a comer y me has ayudado, toma, todo tuyo.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "Muchas gracias, tiene muy buena pinta.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "Un amigo mío seguro que te lo agradecerá.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "Adiós entonces, espero que consigas convertirte en alcalde.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "???",
+      "portrait": "juanjo",
+      "expression": "feliz",
+      "text": "Hombre, hola Manuel, muy buenas.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "???",
+      "portrait": "juanjo",
+      "expression": "feliz",
+      "text": "¿Cómo te va todo? Hoy aún no he visto a tu padre, quería hablar un rato con él y ver si necesitaba ayuda con algo.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot2",
+      "speaker": "Manuel",
+      "portrait": "niño",
+      "expression": "feliz",
+      "text": "¡Hola Juanjo!",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot2",
+      "speaker": "Manuel",
+      "portrait": "niño",
+      "expression": "feliz",
+      "text": "Hoy mi padre está un poco ocupado, de hecho justo iba con él para llevarle estos cubos de agua.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "Juanjo",
+      "portrait": "juanjo",
+      "expression": "feliz",
+      "text": "No me digas, iré contigo entonces para saludarlo y ayudarle en lo que pueda.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "Juanjo",
+      "portrait": "juanjo",
+      "expression": "feliz",
+      "text": "Deja que lleve yo los cubos, parecen pesados.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot2",
+      "speaker": "Manuel",
+      "portrait": "niño",
+      "expression": "feliz",
+      "text": "Muchas gracias, mi padre se alegrará de verte y agradecerá mucho tu ayuda.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "Juanjo",
+      "portrait": "juanjo",
+      "expression": "feliz",
+      "text": "No lo dudo, siempre está tan ocupado trabajando duro que no puedo evitar ofrecerle una mano.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "Juanjo",
+      "portrait": "juanjo",
+      "expression": "feliz",
+      "text": "Vamos para allá entonces.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    }
+  ]
+}

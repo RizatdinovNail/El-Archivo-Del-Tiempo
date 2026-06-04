@@ -1,0 +1,115 @@
+{
+  "sceneId": "final",
+  "dialogues": [
+    {
+      "key": "slot3",
+      "speaker": "Ramón",
+      "portrait": "ramon",
+      "expression": "amable",
+      "text": "Entonces… ¿He estado siempre equivocado?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Ramón",
+      "portrait": "ramon",
+      "expression": "amable",
+      "text": "Ahora me siento como un idiota, no debí robar nunca la Carta.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "Es normal cometer errores al no conocer bien toda la historia.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "Por eso es importante mantenerla siempre redactada con fiabilidad, para que nunca se pueda malinterpretar o utilizar para fines egoístas.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "Pero has demostrado aprender de tu error y admitir la culpa, así como arrepentirte. Es lo mejor que podrías haber hecho.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot2",
+      "speaker": "Archivista",
+      "portrait": "archivista",
+      "expression": "normal",
+      "text": "Desde luego. Si nos ayudas a corregir los cambios que has hecho a la Carta, para poder guardarla y mantener la historia del pueblo de manera fiel...",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot2",
+      "speaker": "Archivista",
+      "portrait": "archivista",
+      "expression": "normal",
+      "text": "...Conseguirías la oportunidad de rectificar ante tu error.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Ramón",
+      "portrait": "ramon",
+      "expression": "amable",
+      "text": "Faltaría más. No espero que el pueblo me perdone por robar la Carta, ni mucho menos que me agradezca el haberla corregido tras manipularla, pero pienso que es lo que debo hacer.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "Desde luego veo que has recapacitado y aprendido. Espero que esto suponga una lección para todos, con la que valoremos más la historia y su conservación.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "Además, ¿no estábamos celebrando una fiesta por el 775 aniversario de la Carta?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "¡Vamos a celebrar!",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    }
+  ]
+}

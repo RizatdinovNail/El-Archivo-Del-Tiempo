@@ -1,0 +1,25 @@
+{
+  "sceneId": "arrabalLoreto_AfterPasado",
+  "dialogues": [
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "sospechosa",
+      "text": "Bueno, ahora tocará seguir explorando el pueblo e investigando…",
+      "seen": false,
+      "mapIsObtained": true,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "sospechosa",
+      "text": "¿Adónde puedo ir?",
+      "seen": false,
+      "mapIsObtained": true,
+      "inventoryIsUsable": true
+    }
+  ]
+}

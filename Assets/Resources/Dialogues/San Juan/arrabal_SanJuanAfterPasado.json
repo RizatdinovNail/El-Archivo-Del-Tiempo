@@ -1,0 +1,116 @@
+{
+  "sceneId": "arrabalSanJuan_AfterPasado",
+  "dialogues": [
+    {
+      "key": "slot3",
+      "speaker": "Martín",
+      "portrait": "niño",
+      "expression": "feliz",
+      "text": "Bueno, yo me voy ya que al final siempre llego tarde.",
+      "seen": false,
+      "mapIsObtained": true,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Martín",
+      "portrait": "niño",
+      "expression": "feliz",
+      "text": "¡Adiós!",
+      "seen": false,
+      "mapIsObtained": true,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "Espera, espera.",
+      "seen": false,
+      "mapIsObtained": true,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "¿A dónde vas tan rápido? ¿No te olvidas de algo?",
+      "seen": false,
+      "mapIsObtained": true,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Martín",
+      "portrait": "niño",
+      "expression": "feliz",
+      "text": "Hmm…",
+      "seen": false,
+      "mapIsObtained": true,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Martín",
+      "portrait": "niño",
+      "expression": "feliz",
+      "text": "Espera, ¿no será mi bocata lomo, no?",
+      "seen": false,
+      "mapIsObtained": true,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "Toma anda, aquí tienes, que al fin y al cabo me has ayudado.",
+      "seen": false,
+      "mapIsObtained": true,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "Te lo has ganado.",
+      "seen": false,
+      "mapIsObtained": true,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Martín",
+      "portrait": "niño",
+      "expression": "feliz",
+      "text": "¡Pues Gracias! ¡Nos vemos!",
+      "seen": false,
+      "mapIsObtained": true,
+      "inventoryIsUsable": true,
+      "removeCharacter": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "sospechosa",
+      "text": "Bueno, ahora tocará seguir explorando el pueblo e investigando…",
+      "seen": false,
+      "mapIsObtained": true,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "sospechosa",
+      "text": "¿Adónde puedo ir?",
+      "seen": false,
+      "mapIsObtained": true,
+      "inventoryIsUsable": true
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "sceneId": "arrabalSanRoque_presenteAfterMiniGame",
+  "dialogues": [
+    {
+      "key": "slot3",
+      "speaker": "Juan Solsona",
+      "portrait": "juan_solsona",
+      "expression": "feliz",
+      "text": "Vaya, no se te da nada mal, jovencita.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "Gracias. Entonces… ¿qué recuerda del hombre de negro?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Juan Solsona",
+      "portrait": "juan_solsona",
+      "expression": "feliz",
+      "text": "Pues que iba hacia el ayuntamiento, con paso decidido. Y algo se le cayó… parecía un papel doblado.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "¿Y aún lo tiene?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Juan Solsona",
+      "portrait": "juan_solsona",
+      "expression": "feliz",
+      "text": "Claro, pensé que era un recibo viejo. Aquí lo tengo.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "Gracias, esto puede ser importante.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Juan Solsona",
+      "portrait": "juan_solsona",
+      "expression": "feliz",
+      "text": "Bueno, si resuelves el misterio, acuérdate de volver por aquí.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Juan Solsona",
+      "portrait": "juan_solsona",
+      "expression": "feliz",
+      "text": "Te debo la revancha.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "Hecho. ¡Hasta pronto!",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true,
+      "showInfoWindow": true
+    }
+  ]
+}

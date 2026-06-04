@@ -1,0 +1,355 @@
+{
+  "sceneId": "ayunt_inside",
+  "dialogues": [
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "sospechosa",
+      "text": "Hey, ¿quién anda ahí?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "sospechosa",
+      "text": "Ese sombrero… ¿No serás el ladrón de la Carta?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot2",
+      "speaker": "Archivista",
+      "portrait": "archivista",
+      "expression": "enfadada",
+      "text": "Debe de ser él, no hay duda.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot2",
+      "speaker": "Archivista",
+      "portrait": "archivista",
+      "expression": "enfadada",
+      "text": "¡Descúbrete y muéstranos quién eres, cobarde!",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "???",
+      "portrait": "ramon",
+      "expression": "shadow",
+      "text": "No deberíais estar aquí, ¡marchaos!",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "sospechosa",
+      "text": "¡De ninguna manera! Tienes que devolver la Carta al pueblo, no te dejaremos ir con ella de nuevo.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot2",
+      "speaker": "Archivista",
+      "portrait": "archivista",
+      "expression": "enfadada",
+      "text": "Espera… Esa voz…",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot2",
+      "speaker": "Archivista",
+      "portrait": "archivista",
+      "expression": "enfadada",
+      "text": "Te conozco, estoy segura, pero no puede ser…",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Ramón",
+      "portrait": "ramon",
+      "expression": "amable",
+      "text": "...",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "sospechosa",
+      "text": "¿¡Tú!?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "sospechosa",
+      "text": "No me puedo creer que hayas robado la Carta. ¿Con qué propósito?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Ramón",
+      "portrait": "ramon",
+      "expression": "amable",
+      "text": "Eso ya no importa, ahora que me habéis visto aquí me habéis fastidiado todo el plan.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot2",
+      "speaker": "Archivista",
+      "portrait": "archivista",
+      "expression": "enfadada",
+      "text": "Pero entonces, ¿por qué has venido al ayuntamiento? ¿Qué sentido tiene jugártela a ser pillado?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Ramón",
+      "portrait": "ramon",
+      "expression": "amable",
+      "text": "Mi idea era venir mientras aún estabais ocupadas encontrando al responsable...",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Ramón",
+      "portrait": "ramon",
+      "expression": "amable",
+      "text": "...No esperaba que estuvierais en la sala de restauración de documentos.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Ramón",
+      "portrait": "ramon",
+      "expression": "amable",
+      "text": "Quería devolver la carta sin que nadie lo supiera.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "sospechosa",
+      "text": "Pero entonces, ¿para qué robarla?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "sospechosa",
+      "text": "No me digas que te has arrepentido de haberla robado.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Ramón",
+      "portrait": "ramon",
+      "expression": "amable",
+      "text": "De eso nada. Mi plan era robarla para cambiar su contenido y devolverla sin que nadie me viera.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot2",
+      "speaker": "Archivista",
+      "portrait": "archivista",
+      "expression": "enfadada",
+      "text": "Así que cambiar el contenido de la Carta…",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot2",
+      "speaker": "Archivista",
+      "portrait": "archivista",
+      "expression": "enfadada",
+      "text": "Me puedo imaginar lo que buscabas conseguir…",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "sospechosa",
+      "text": "Ahora estoy un poco perdida, no entiendo nada...",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot2",
+      "speaker": "Archivista",
+      "portrait": "archivista",
+      "expression": "enfadada",
+      "text": "Te explico, Ramón Colom es descendiente de uno de los fundadores de Vistabella, Guillem Colom.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot2",
+      "speaker": "Archivista",
+      "portrait": "archivista",
+      "expression": "enfadada",
+      "text": "Asumo que lo que quería es cambiar parte de la Carta Pobla para, de esa manera, hacer que la herencia del pueblo pase por descendencia familiar, adueñándose él del pueblo.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot2",
+      "speaker": "Archivista",
+      "portrait": "archivista",
+      "expression": "enfadada",
+      "text": "¿Estoy en lo cierto?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Ramón",
+      "portrait": "ramon",
+      "expression": "amable",
+      "text": "Desde luego, has dado en el clavo.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Ramón",
+      "portrait": "ramon",
+      "expression": "amable",
+      "text": "¡Y me habría salido con la mía, si no fuera porque habéis estado restaurando las visuras!",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "sospechosa",
+      "text": "Pero, ¿por qué adueñarse del pueblo?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Ramón",
+      "portrait": "ramon",
+      "expression": "amable",
+      "text": "Porque debería ser mío por derecho. Especialmente debido a las injusticias y al odio cometidos contra mi antepasado Juanjo Colom.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "sospechosa",
+      "text": "¿Injusticias y odio? Ahí te equivocas, Juanjo Colom fue muy amado y bien tratado por el pueblo. Siendo una persona que ayudó a todos mostrando siempre una sonrisa.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "sospechosa",
+      "text": "Si no quiso que el pueblo quedara en manos de su descendencia, era para que pasara a todos los vecinos y residentes del pueblo.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Ramón",
+      "portrait": "ramon",
+      "expression": "amable",
+      "text": "¿Y tú qué sabrás? Ni siquiera eres de aquí. ¿Cómo vas a conocer a mi antepasado y lo que hizo?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "sospechosa",
+      "text": "Explorando, hablando con la gente y rescatando las visuras se llega a aprender mucho del pueblo, su historia y sus antiguos habitantes.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot2",
+      "speaker": "Archivista",
+      "portrait": "archivista",
+      "expression": "enfadada",
+      "text": "Todo lo que dice es cierto, Juanjo Colom fue amado por todo el pueblo.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot2",
+      "speaker": "Archivista",
+      "portrait": "archivista",
+      "expression": "enfadada",
+      "text": "Tocará demostrar que Ramón se equivoca.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    }
+  ]
+}

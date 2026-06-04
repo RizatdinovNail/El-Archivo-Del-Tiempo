@@ -1,0 +1,125 @@
+{
+  "sceneId": "arrabalLoreto_pasadoAfterMiniGame",
+  "dialogues": [
+    {
+      "key": "slot2",
+      "speaker": "Barbara Gual",
+      "portrait": "abuela",
+      "expression": "feliz",
+      "text": "¡Perfecto! Hacía años que no veía una puntada tan limpia. ¡Muchas gracias!",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "¡De nada!",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot2",
+      "speaker": "Barbara Gual",
+      "portrait": "abuela",
+      "expression": "feliz",
+      "text": "A Juanjo le encantará.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "Juanjo",
+      "portrait": "juanjo",
+      "expression": "feliz",
+      "text": "¡Buenas! ¿He oído mi nombre?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot2",
+      "speaker": "Barbara Gual",
+      "portrait": "abuela",
+      "expression": "feliz",
+      "text": "Sí, justo estábamos hablando de tí. Mira este gorro que te he hecho con la ayuda de esta amable chica.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "Juanjo",
+      "portrait": "juanjo",
+      "expression": "feliz",
+      "text": "¡Oh! ¿Un gorro? ¡Muchas gracias!",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "Me alegro de que te guste.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "Me gustaría aprender sobre la historia del pueblo.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "La señora Bárbara me ha dicho que estás redactando una visura. Me parece muy interesante.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "¿Podría leerla?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot3",
+      "speaker": "Juanjo",
+      "portrait": "juanjo",
+      "expression": "feliz",
+      "text": "Claro, aquí tienes.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "¡Gracias!",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": false
+    }
+  ]
+}

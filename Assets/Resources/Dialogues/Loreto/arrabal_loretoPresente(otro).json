@@ -1,0 +1,185 @@
+{
+  "sceneId": "arrabalLoreto_presente(otro)",
+  "dialogues": [
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "Qué bien huele...",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "¿Habrá una pandería aquí cerca?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "???",
+      "portrait": "abuela",
+      "expression": "feliz",
+      "text": "Si sigues el olor, no te equivocas.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "???",
+      "portrait": "abuela",
+      "expression": "feliz",
+      "text": "¿Te apetece probar un pan de Loreto? Salió del horno hace un minuto.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "Oh, hola… sí, huele increíble. ¿Usted es la pandera?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Carmen",
+      "portrait": "abuela",
+      "expression": "feliz",
+      "text": "La misma, me llamo Carmen.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Carmen",
+      "portrait": "abuela",
+      "expression": "feliz",
+      "text": "Tú debes ser nueva por aquí, no te había visto antes. ",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "Sí, estoy investigando el robo de la Carta Pobla. ¿Has oído algo?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Carmen",
+      "portrait": "abuela",
+      "expression": "feliz",
+      "text": "¿La Carta Pobla? Ay, sí… ¡Qué disgusto! El padre Marcos no habla de otra cosa.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Carmen",
+      "portrait": "abuela",
+      "expression": "feliz",
+      "text": "Me enteré de que desapareció justo cuando vine a dejar pan en la sacristía.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Carmen",
+      "portrait": "abuela",
+      "expression": "feliz",
+      "text": "Pero ya sabes, hija… yo estaba más pendiente de que Martín no se metiera en líos, así que no ví nada.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "¿Martín?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Carmen",
+      "portrait": "abuela",
+      "expression": "feliz",
+      "text": "Es un niño del pueblo que siempre se mete en lios. Es un buen chico, solo un poco… travieso.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Carmen",
+      "portrait": "abuela",
+      "expression": "feliz",
+      "text": "De todos modos, si quieres que mi memoria despierte, tendrás que echarme una mano.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "¿Quieres que te ayude a hacer pan?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Carmen",
+      "portrait": "abuela",
+      "expression": "feliz",
+      "text": "Casi, soy panadera, pero como hacer pan va a llevar mucho tiempo, te enseñaré a hacer unos platos tradicionales.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot3",
+      "speaker": "Carmen",
+      "portrait": "abuela",
+      "expression": "feliz",
+      "text": "Es fácil. ¿Estás lista?",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    },
+    {
+      "key": "slot1",
+      "speaker": "Bella",
+      "portrait": "bella",
+      "expression": "feliz",
+      "text": "Sí.",
+      "seen": false,
+      "mapIsObtained": false,
+      "inventoryIsUsable": true
+    }
+  ]
+}
