@@ -15,3 +15,6 @@ Marc Giménez Oliver - Programador
 Iván Monleón Millán - Programador
 
 Con la colaboración del Ayuntamiento de Vistabella y de la Universitat Jaume I (UJI).
+
+# Enlace de itchio
+https://nail-rizatdinov.itch.io/el-archivo-del-tiempo 
