@@ -84,7 +84,7 @@ With collaboration Ayuntamiento de Vistabella and Universitat Jaume I (UJI).
 
 The game is available to play on **itch.io**.
 
-**Itch.io:** [*(Link to the game)*](https://arleqquino.itch.io/el-archivo-del-tiempo)
+**Itch.io:** [*Play El Archivo del Tiempo*](https://arleqquino.itch.io/el-archivo-del-tiempo)
 
 ---
 
