@@ -66,6 +66,18 @@ I was responsible for the implementation of the game's core gameplay systems and
 
 This project was developed by a multidisciplinary team of **6 students**, including programmers, artists, writers, and designers.
 
+Nail Rizatdinov - Lead Programmer
+
+Carla Ortizá Ballestero - Artist
+
+Irene Biot Chulilla - Artist
+
+Marc Giménez Oliver - Programmer
+
+Iván Monleón Millán - Programmer
+
+With collaboration Ayuntamiento de Vistabella and Universitat Jaume I (UJI).
+
 ---
 
 ## Play the Game
