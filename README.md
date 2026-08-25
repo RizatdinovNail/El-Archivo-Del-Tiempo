@@ -1,8 +1,9 @@
-Asset Rights Notice
+> **Asset Rights Notice**
+>
+> The source code of this project is available under the MIT License. **The artwork and music are not covered by the MIT License and may not be reused or redistributed without permission.**
+>
+> The original artwork was created by the project's artists, while the music was provided by the rights holders for whom the game was developed. See [`ARTWORK_LICENSE.md`](ARTWORK_LICENSE.md) for details.
 
-The source code of this project is available under the MIT License. The artwork and music are not covered by the MIT License and may not be reused or redistributed without permission.
-
-The original artwork was created by the project's artists, while the music was provided by the rights holders for whom the game was developed. See ARTWORK_LICENSE.md for details.
 
 # El Archivo del Tiempo
 
