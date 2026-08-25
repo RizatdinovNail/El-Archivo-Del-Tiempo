@@ -72,7 +72,7 @@ This project was developed by a multidisciplinary team of **6 students**, includ
 
 The game is available to play on **itch.io**.
 
-**Itch.io:** *(add your link here)*
+**Itch.io:** [*(Link to the game)*](https://arleqquino.itch.io/el-archivo-del-tiempo)
 
 ---
 
