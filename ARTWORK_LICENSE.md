@@ -30,6 +30,22 @@ The music is included in this repository solely as part of the original game pro
 
 Any rights or permissions concerning the music remain with its respective copyright holder(s). Please contact the original rights holder(s) if you wish to obtain permission to use the music.
 
+## AI Training and Machine Learning
+
+The artwork, music, and other non-code creative assets in this repository are **not licensed or authorized for use in training, fine-tuning, evaluating, or otherwise developing artificial intelligence or machine-learning models**.
+
+This includes, but is not limited to:
+
+* Dataset creation or collection
+* Model training or fine-tuning
+* Embedding or feature-dataset creation
+* Generative AI model development
+* Machine-learning research involving these assets as training data
+
+No permission is granted to use these assets for such purposes.
+
+This notice expresses the creators' explicit reservation of rights regarding the use of these assets for AI and machine-learning purposes. It does not purport to override applicable law or rights belonging to third-party copyright holders.
+
 ## Third-Party Assets
 
 Any other third-party assets included in the project remain subject to their respective licenses and terms.
