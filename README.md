@@ -14,7 +14,15 @@ A narrative adventure game developed in **Unity** over four months by a team of 
 **Role:** Lead Programmer
 **Engine:** Unity
 **Language:** C#
-**Development Time:** 4 months
+**Team:** 6 people
+**Development:** 4 months
+
+---
+
+## Screenshots
+![Dialogue](https://img.itch.zone/aW1hZ2UvNDIwMjgwMS8yNTI0Mjc1NC5wbmc=/original/drPM3Z.png)
+
+![Memory Minigame](https://img.itch.zone/aW1hZ2UvNDIwMjgwMS8yNTI0Mjc1Ny5wbmc=/original/jg1Uv6.png)
 
 ---
 
