@@ -1,9 +1,3 @@
-> **Asset Rights Notice**
->
-> The source code of this project is available under the MIT License. **The artwork and music are not covered by the MIT License and may not be reused or redistributed without permission.**
->
-> The original artwork was created by the project's artists, while the music was provided by the rights holders for whom the game was developed. See [`ARTWORK_LICENSE.md`](ARTWORK_LICENSE.md) for details.
-
 > **Asset & AI Training Notice**
 >
 > The source code of this project is licensed separately from its creative assets. The artwork and music **may not be reused, redistributed, modified, or used as training data for AI or machine-learning models without permission from the respective rights holders**.
