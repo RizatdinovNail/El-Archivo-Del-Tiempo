@@ -1,3 +1,9 @@
+Asset Rights Notice
+
+The source code of this project is available under the MIT License. The artwork and music are not covered by the MIT License and may not be reused or redistributed without permission.
+
+The original artwork was created by the project's artists, while the music was provided by the rights holders for whom the game was developed. See ARTWORK_LICENSE.md for details.
+
 # El Archivo del Tiempo
 
 A narrative adventure game developed in **Unity** over four months by a team of six students as a university project. The game combines visual novel storytelling with interactive gameplay through exploration, inventory management, and two original minigames.
