@@ -75,4 +75,4 @@ The game is available to play on **itch.io**.
 
 ## Repository
 
-This repository contains the source code for the university project and demonstrates the gameplay systems and programming architecture implemented during development.
+This repository contains the source code and project assets for the university project. Different components of the project are subject to different rights; see LICENSE and ARTWORK_LICENSE.md
